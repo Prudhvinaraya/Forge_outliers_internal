@@ -1,0 +1,26 @@
+{
+  "total_questions": 120,
+  "class_distribution": {
+    "single_hop_factual": 30,
+    "multi_hop_relational": 30,
+    "corpus_summary": 30,
+    "unanswerable": 30
+  },
+  "split_distribution": {
+    "test": 80,
+    "development": 40
+  },
+  "answerable_questions": 90,
+  "unanswerable_questions": 30,
+  "evidence_units": 163,
+  "document_evidence_usage": {
+    "DOC_EVM_FAQ_2026": 66,
+    "DOC_EVM_MANUAL_2026": 38,
+    "DOC_PRESIDING_OFFICER_2023": 19,
+    "DOC_ELECTOR_BROCHURE_2023": 16,
+    "DOC_CANDIDATE_PARTY_BROCHURE_2024": 24
+  },
+  "duplicate_question_count": 0,
+  "invalid_page_reference_count": 0,
+  "empty_evidence_count": 0
+}

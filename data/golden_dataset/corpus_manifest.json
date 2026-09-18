@@ -1,0 +1,56 @@
+{
+  "corpus_id": "ECI_EVM_CORPUS_V1",
+  "benchmark_dataset": "ECI_EVM_GOLDEN_SET_V1",
+  "included_documents": [
+    {
+      "document_id": "DOC_EVM_FAQ_2026",
+      "filename": "ECI_EVM_FAQs_Ingestion_Corpus(1).pdf",
+      "pages": 54,
+      "sha256": "941dd5b081c17ff37ecdb4811050b0cf116f6906ae5dcc917343da32b4564db0",
+      "included": true
+    },
+    {
+      "document_id": "DOC_EVM_MANUAL_2026",
+      "filename": "evm-manual-2026.pdf",
+      "pages": 189,
+      "sha256": "8f633bc35a440e0c7061dc2c71831d4408f39c0e181ae51718d851f929bc4994",
+      "included": true
+    },
+    {
+      "document_id": "DOC_PRESIDING_OFFICER_2023",
+      "filename": "BROCHURE FOR PRESIDING OFFICER.pdf",
+      "pages": 6,
+      "sha256": "f9860cb7283abe1193580e418cca7464ce0abd28c2c28d74fff3abc3c8b92652",
+      "included": true
+    },
+    {
+      "document_id": "DOC_ELECTOR_BROCHURE_2023",
+      "filename": "EVM BROCHURE FOR ELECTORS.pdf",
+      "pages": 6,
+      "sha256": "864b4fb6598ddf63e868517e86ddfb79cac7c6140d062965c9ec9aefc6986b90",
+      "included": true
+    },
+    {
+      "document_id": "DOC_CANDIDATE_PARTY_BROCHURE_2024",
+      "filename": "EVM BROCHURE FOR CANDIDATES & POLITICAL PARTIES.pdf",
+      "pages": 13,
+      "sha256": "3641117cbd69027dfac355f22211a695bbf03f311979d584d02b18847a1cd267",
+      "included": true
+    }
+  ],
+  "excluded_documents": [
+    {
+      "filename": "EVM BROCHURE FOR.pdf",
+      "sha256": "3641117cbd69027dfac355f22211a695bbf03f311979d584d02b18847a1cd267",
+      "included": false,
+      "reason": "Exact byte-for-byte duplicate of EVM BROCHURE FOR CANDIDATES & POLITICAL PARTIES.pdf",
+      "duplicate_of": "DOC_CANDIDATE_PARTY_BROCHURE_2024"
+    }
+  ],
+  "matching_contract": {
+    "primary_gold_key": "relevant_evidence_ids",
+    "faq_locator_format": "DOC_EVM_FAQ_2026#ECI-EVM-CNN-QNN",
+    "page_locator_format": "DOCUMENT_ID#pNNN",
+    "relevant_chunk_ids": "Populate after the production chunking pipeline assigns immutable chunk IDs."
+  }
+}
