@@ -1,0 +1,1438 @@
+{
+  "source_dataset": "eci_evm_golden_set_v1.jsonl",
+  "entity_count": 149,
+  "entities": [
+    {
+      "id": "ENT-001",
+      "canonical": "VVPAT",
+      "aliases": [
+        "VVPAT",
+        "Voter Verifiable Paper Audit Trail",
+        "voter verifiable paper audit trail"
+      ],
+      "question_count": 34
+    },
+    {
+      "id": "ENT-002",
+      "canonical": "Control Unit",
+      "aliases": [
+        "CU",
+        "control unit",
+        "control units"
+      ],
+      "question_count": 26
+    },
+    {
+      "id": "ENT-003",
+      "canonical": "Ballot Unit",
+      "aliases": [
+        "BU",
+        "ballot unit",
+        "ballot units"
+      ],
+      "question_count": 12
+    },
+    {
+      "id": "ENT-004",
+      "canonical": "FLC",
+      "aliases": [
+        "FLC",
+        "First Level Checking",
+        "first level checking"
+      ],
+      "question_count": 10
+    },
+    {
+      "id": "ENT-005",
+      "canonical": "Presiding Officer",
+      "aliases": [
+        "Presiding Officer",
+        "presiding officer",
+        "PO"
+      ],
+      "question_count": 9
+    },
+    {
+      "id": "ENT-006",
+      "canonical": "Candidates",
+      "aliases": [
+        "Candidates",
+        "candidates"
+      ],
+      "question_count": 7
+    },
+    {
+      "id": "ENT-007",
+      "canonical": "Commissioning",
+      "aliases": [
+        "Commissioning",
+        "commissioning"
+      ],
+      "question_count": 7
+    },
+    {
+      "id": "ENT-008",
+      "canonical": "EVM",
+      "aliases": [
+        "EVM",
+        "EVMs",
+        "Electronic Voting Machine",
+        "Electronic Voting Machines"
+      ],
+      "question_count": 7
+    },
+    {
+      "id": "ENT-009",
+      "canonical": "Power Pack",
+      "aliases": [
+        "Power Pack",
+        "power pack",
+        "battery"
+      ],
+      "question_count": 7
+    },
+    {
+      "id": "ENT-010",
+      "canonical": "District Election Officer",
+      "aliases": [
+        "District Election Officer",
+        "district election officer"
+      ],
+      "question_count": 6
+    },
+    {
+      "id": "ENT-011",
+      "canonical": "Form 17C",
+      "aliases": [
+        "Form 17C",
+        "17C"
+      ],
+      "question_count": 6
+    },
+    {
+      "id": "ENT-012",
+      "canonical": "Mock Poll",
+      "aliases": [
+        "Mock Poll",
+        "mock poll",
+        "MP"
+      ],
+      "question_count": 6
+    },
+    {
+      "id": "ENT-013",
+      "canonical": "Polling Agents",
+      "aliases": [
+        "Polling Agents",
+        "polling agents",
+        "PA",
+        "Polling Agent"
+      ],
+      "question_count": 6
+    },
+    {
+      "id": "ENT-014",
+      "canonical": "Rule 49MA",
+      "aliases": [
+        "Rule 49MA",
+        "49MA"
+      ],
+      "question_count": 6
+    },
+    {
+      "id": "ENT-015",
+      "canonical": "CCTV",
+      "aliases": [
+        "CCTV",
+        "cctv"
+      ],
+      "question_count": 5
+    },
+    {
+      "id": "ENT-016",
+      "canonical": "EMS",
+      "aliases": [
+        "EMS",
+        "EVM Management System"
+      ],
+      "question_count": 5
+    },
+    {
+      "id": "ENT-017",
+      "canonical": "First Randomization",
+      "aliases": [
+        "First Randomization",
+        "first randomization",
+        "FR"
+      ],
+      "question_count": 5
+    },
+    {
+      "id": "ENT-018",
+      "canonical": "Political Parties",
+      "aliases": [
+        "Political Parties",
+        "political parties",
+        "Political Partie"
+      ],
+      "question_count": 5
+    },
+    {
+      "id": "ENT-019",
+      "canonical": "Second Randomization",
+      "aliases": [
+        "Second Randomization",
+        "second randomization"
+      ],
+      "question_count": 5
+    },
+    {
+      "id": "ENT-020",
+      "canonical": "BEL",
+      "aliases": [
+        "BEL",
+        "Bharat Electronics Limited"
+      ],
+      "question_count": 4
+    },
+    {
+      "id": "ENT-021",
+      "canonical": "Candidate",
+      "aliases": [
+        "Candidate",
+        "candidate"
+      ],
+      "question_count": 4
+    },
+    {
+      "id": "ENT-022",
+      "canonical": "DEO",
+      "aliases": [
+        "DEO"
+      ],
+      "question_count": 4
+    },
+    {
+      "id": "ENT-023",
+      "canonical": "ECIL",
+      "aliases": [
+        "ECIL",
+        "Electronics Corporation of India Limited"
+      ],
+      "question_count": 4
+    },
+    {
+      "id": "ENT-024",
+      "canonical": "EVM Warehouse",
+      "aliases": [
+        "EVM Warehouse",
+        "evm warehouse",
+        "EW"
+      ],
+      "question_count": 4
+    },
+    {
+      "id": "ENT-025",
+      "canonical": "GPS",
+      "aliases": [
+        "GPS",
+        "Global Positioning System"
+      ],
+      "question_count": 4
+    },
+    {
+      "id": "ENT-026",
+      "canonical": "Strong Room",
+      "aliases": [
+        "Strong Room",
+        "strong room"
+      ],
+      "question_count": 4
+    },
+    {
+      "id": "ENT-027",
+      "canonical": "VVPAT slip",
+      "aliases": [
+        "VVPAT slip",
+        "printed paper slip"
+      ],
+      "question_count": 4
+    },
+    {
+      "id": "ENT-028",
+      "canonical": "Braille",
+      "aliases": [
+        "Braille",
+        "braille"
+      ],
+      "question_count": 3
+    },
+    {
+      "id": "ENT-029",
+      "canonical": "CAPF",
+      "aliases": [
+        "CAPF",
+        "Central Armed Police Forces"
+      ],
+      "question_count": 3
+    },
+    {
+      "id": "ENT-030",
+      "canonical": "Counting Day",
+      "aliases": [
+        "Counting Day",
+        "counting day",
+        "CD"
+      ],
+      "question_count": 3
+    },
+    {
+      "id": "ENT-031",
+      "canonical": "NOTA",
+      "aliases": [
+        "NOTA",
+        "None of the Above"
+      ],
+      "question_count": 3
+    },
+    {
+      "id": "ENT-032",
+      "canonical": "Polled Strong Room",
+      "aliases": [
+        "Polled Strong Room",
+        "polled strong room",
+        "PSR"
+      ],
+      "question_count": 3
+    },
+    {
+      "id": "ENT-033",
+      "canonical": "Randomization",
+      "aliases": [
+        "Randomization",
+        "randomization"
+      ],
+      "question_count": 3
+    },
+    {
+      "id": "ENT-034",
+      "canonical": "Address Tag",
+      "aliases": [
+        "Address Tag",
+        "address tag",
+        "AT"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-035",
+      "canonical": "Armed Security",
+      "aliases": [
+        "Armed Security",
+        "armed security"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-036",
+      "canonical": "Assembly Constituency",
+      "aliases": [
+        "Assembly Constituency"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-037",
+      "canonical": "Counting",
+      "aliases": [
+        "Counting",
+        "counting"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-038",
+      "canonical": "EMS 2.0",
+      "aliases": [
+        "EMS 2.0",
+        "EMS2.0",
+        "EVM Management System 2.0"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-039",
+      "canonical": "EVM Inventory",
+      "aliases": [
+        "EVM Inventory",
+        "evm inventory",
+        "EI"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-040",
+      "canonical": "EVM Manual",
+      "aliases": [
+        "EVM Manual",
+        "evm manual"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-041",
+      "canonical": "Form 17A",
+      "aliases": [
+        "Form 17A",
+        "17A",
+        "Register for Voters"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-042",
+      "canonical": "M3",
+      "aliases": [
+        "M3",
+        "m3"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-043",
+      "canonical": "M3 EVM",
+      "aliases": [
+        "M3 EVM",
+        "m3 evm",
+        "ME"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-044",
+      "canonical": "Paper Ballot",
+      "aliases": [
+        "Paper Ballot",
+        "paper ballot",
+        "ballot paper"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-045",
+      "canonical": "Replacement Protocol",
+      "aliases": [
+        "Replacement Protocol",
+        "replacement protocol",
+        "RP"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-046",
+      "canonical": "Reserve EVM",
+      "aliases": [
+        "Reserve EVM",
+        "reserve evm",
+        "RE"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-047",
+      "canonical": "Returning Officer",
+      "aliases": [
+        "Returning Officer",
+        "returning officer"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-048",
+      "canonical": "SLU",
+      "aliases": [
+        "SLU"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-049",
+      "canonical": "Section 61A",
+      "aliases": [
+        "Section 61A",
+        "61A"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-050",
+      "canonical": "Symbol Loading Unit",
+      "aliases": [
+        "Symbol Loading Unit",
+        "symbol loading unit"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-051",
+      "canonical": "Training EVM",
+      "aliases": [
+        "Training EVM",
+        "training evm",
+        "TE"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-052",
+      "canonical": "UADM",
+      "aliases": [
+        "UADM",
+        "Unauthorized Access Detection Module",
+        "Unauthorised Access Detection Module"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-053",
+      "canonical": "Vote Secrecy",
+      "aliases": [
+        "Vote Secrecy",
+        "vote secrecy",
+        "VS"
+      ],
+      "question_count": 2
+    },
+    {
+      "id": "ENT-054",
+      "canonical": "2030 Roadmap",
+      "aliases": [
+        "2030 Roadmap",
+        "2030 roadmap",
+        "2R"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-055",
+      "canonical": "ARO",
+      "aliases": [
+        "ARO",
+        "Assistant Returning Officer"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-056",
+      "canonical": "Address Change",
+      "aliases": [
+        "Address Change",
+        "address change"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-057",
+      "canonical": "Alkaline Cell",
+      "aliases": [
+        "Alkaline Cell",
+        "alkaline cell"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-058",
+      "canonical": "Armed Escort",
+      "aliases": [
+        "Armed Escort",
+        "armed escort",
+        "AE"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-059",
+      "canonical": "Assembly Segment",
+      "aliases": [
+        "Assembly Segment"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-060",
+      "canonical": "Battery Percentage",
+      "aliases": [
+        "Battery Percentage",
+        "battery percentage",
+        "BP"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-061",
+      "canonical": "Blockchain Voting",
+      "aliases": [
+        "Blockchain Voting",
+        "blockchain voting",
+        "BV"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-062",
+      "canonical": "Booth",
+      "aliases": [
+        "Booth",
+        "booth"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-063",
+      "canonical": "CCTV Contractor",
+      "aliases": [
+        "CCTV Contractor",
+        "cctv contractor"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-064",
+      "canonical": "Candidate Nomination",
+      "aliases": [
+        "Candidate Nomination",
+        "candidate nomination",
+        "CN"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-065",
+      "canonical": "Candidate Sequence",
+      "aliases": [
+        "Candidate Sequence",
+        "candidate sequence",
+        "CS"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-066",
+      "canonical": "Close Button",
+      "aliases": [
+        "Close Button",
+        "close button",
+        "CB"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-067",
+      "canonical": "Close of Poll",
+      "aliases": [
+        "Close of Poll",
+        "close of poll",
+        "COP"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-068",
+      "canonical": "Collection Centre",
+      "aliases": [
+        "Collection Centre",
+        "collection centre"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-069",
+      "canonical": "Conduct of Elections Rules",
+      "aliases": [
+        "Conduct of Elections Rules",
+        "conduct of elections rules",
+        "COER",
+        "Conduct of Elections Rule"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-070",
+      "canonical": "Criminal Case",
+      "aliases": [
+        "Criminal Case",
+        "criminal case"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-071",
+      "canonical": "Critical Mistakes",
+      "aliases": [
+        "Critical Mistakes",
+        "critical mistakes",
+        "CM",
+        "Critical Mistake"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-072",
+      "canonical": "Deputy District Election Officer",
+      "aliases": [
+        "Deputy District Election Officer",
+        "deputy district election officer",
+        "DDEO"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-073",
+      "canonical": "Dispersal Day",
+      "aliases": [
+        "Dispersal Day",
+        "dispersal day",
+        "DD"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-074",
+      "canonical": "Double Lock",
+      "aliases": [
+        "Double Lock",
+        "double lock",
+        "DL"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-075",
+      "canonical": "ECI-EVM",
+      "aliases": [
+        "ECI-EVM",
+        "ECI EVM",
+        "ECI Electronic Voting Machine"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-076",
+      "canonical": "EMS 2.0 Password",
+      "aliases": [
+        "EMS 2.0 Password",
+        "ems 2.0 password",
+        "E20P"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-077",
+      "canonical": "EVM Demonstration Centre",
+      "aliases": [
+        "EVM Demonstration Centre",
+        "evm demonstration centre",
+        "EDC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-078",
+      "canonical": "EVM Design",
+      "aliases": [
+        "EVM Design",
+        "evm design",
+        "ED"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-079",
+      "canonical": "EVM FAQs",
+      "aliases": [
+        "EVM FAQs",
+        "evm faqs",
+        "EF",
+        "EVM FAQ"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-080",
+      "canonical": "EVM Failure Prediction",
+      "aliases": [
+        "EVM Failure Prediction",
+        "evm failure prediction",
+        "EFP"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-081",
+      "canonical": "EVM Movement",
+      "aliases": [
+        "EVM Movement",
+        "evm movement"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-082",
+      "canonical": "EVM Serial Number",
+      "aliases": [
+        "EVM Serial Number",
+        "evm serial number",
+        "ESN"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-083",
+      "canonical": "EVM Transport",
+      "aliases": [
+        "EVM Transport",
+        "evm transport",
+        "ET"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-084",
+      "canonical": "Election Petition",
+      "aliases": [
+        "Election Petition",
+        "election petition",
+        "EP"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-085",
+      "canonical": "Election Result",
+      "aliases": [
+        "Election Result",
+        "election result",
+        "ER"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-086",
+      "canonical": "Election Schedule",
+      "aliases": [
+        "Election Schedule",
+        "election schedule",
+        "ES"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-087",
+      "canonical": "Elector",
+      "aliases": [
+        "Elector",
+        "elector"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-088",
+      "canonical": "Encryption",
+      "aliases": [
+        "Encryption",
+        "encryption"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-089",
+      "canonical": "Encryption Key",
+      "aliases": [
+        "Encryption Key",
+        "encryption key",
+        "EK"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-090",
+      "canonical": "Firmware",
+      "aliases": [
+        "Firmware",
+        "firmware"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-091",
+      "canonical": "Firmware Binary",
+      "aliases": [
+        "Firmware Binary",
+        "firmware binary",
+        "FB"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-092",
+      "canonical": "Firmware Source Code",
+      "aliases": [
+        "Firmware Source Code",
+        "firmware source code",
+        "FSC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-093",
+      "canonical": "High Court",
+      "aliases": [
+        "High Court",
+        "high court",
+        "HC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-094",
+      "canonical": "Higher Mock Poll",
+      "aliases": [
+        "Higher Mock Poll",
+        "higher mock poll",
+        "HMP"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-095",
+      "canonical": "Kerala",
+      "aliases": [
+        "Kerala",
+        "kerala"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-096",
+      "canonical": "Legislative Assembly",
+      "aliases": [
+        "Legislative Assembly",
+        "legislative assembly",
+        "LA"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-097",
+      "canonical": "Legislative Assembly Constituency",
+      "aliases": [
+        "Legislative Assembly Constituency",
+        "SLA"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-098",
+      "canonical": "Lok Sabha",
+      "aliases": [
+        "Lok Sabha",
+        "House of the People",
+        "Parliamentary election"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-099",
+      "canonical": "M3 VVPAT",
+      "aliases": [
+        "M3 VVPAT",
+        "m3 vvpat",
+        "MV"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-100",
+      "canonical": "Machine Failure",
+      "aliases": [
+        "Machine Failure",
+        "machine failure",
+        "MF"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-101",
+      "canonical": "Microcontroller",
+      "aliases": [
+        "Microcontroller",
+        "microcontroller"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-102",
+      "canonical": "Mobile Demonstration Van",
+      "aliases": [
+        "Mobile Demonstration Van",
+        "mobile demonstration van",
+        "MDV"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-103",
+      "canonical": "Mock Poll Certificate",
+      "aliases": [
+        "Mock Poll Certificate",
+        "mock poll certificate",
+        "MPC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-104",
+      "canonical": "Mutual Authentication",
+      "aliases": [
+        "Mutual Authentication",
+        "mutual authentication",
+        "MA"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-105",
+      "canonical": "Nagaland",
+      "aliases": [
+        "Nagaland",
+        "nagaland"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-106",
+      "canonical": "Network Address",
+      "aliases": [
+        "Network Address",
+        "network address",
+        "NA",
+        "Network Addres"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-107",
+      "canonical": "Noksen",
+      "aliases": [
+        "Noksen",
+        "noksen"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-108",
+      "canonical": "Noksen Assembly Constituency",
+      "aliases": [
+        "Noksen Assembly Constituency",
+        "noksen assembly constituency",
+        "NAC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-109",
+      "canonical": "OTP",
+      "aliases": [
+        "OTP",
+        "One Time Programmable",
+        "One-Time Programmable"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-110",
+      "canonical": "OTP Chip",
+      "aliases": [
+        "OTP Chip",
+        "One Time Programmable Chip"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-111",
+      "canonical": "OTP Memory",
+      "aliases": [
+        "OTP Memory",
+        "One Time Programmed Memory"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-112",
+      "canonical": "Paper Roll Knob",
+      "aliases": [
+        "Paper Roll Knob",
+        "paper roll knob",
+        "PRK"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-113",
+      "canonical": "Parliamentary Constituency",
+      "aliases": [
+        "Parliamentary Constituency",
+        "PC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-114",
+      "canonical": "Part I",
+      "aliases": [
+        "Part I",
+        "part i"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-115",
+      "canonical": "Part II",
+      "aliases": [
+        "Part II",
+        "part ii"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-116",
+      "canonical": "Part III",
+      "aliases": [
+        "Part III",
+        "part iii"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-117",
+      "canonical": "Part IV",
+      "aliases": [
+        "Part IV",
+        "part iv"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-118",
+      "canonical": "Parur",
+      "aliases": [
+        "Parur",
+        "parur"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-119",
+      "canonical": "Parur Assembly Constituency",
+      "aliases": [
+        "Parur Assembly Constituency",
+        "parur assembly constituency",
+        "PAC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-120",
+      "canonical": "Phone Number",
+      "aliases": [
+        "Phone Number",
+        "phone number",
+        "PN"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-121",
+      "canonical": "Political Party Manifesto",
+      "aliases": [
+        "Political Party Manifesto",
+        "political party manifesto",
+        "PPM"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-122",
+      "canonical": "Poll",
+      "aliases": [
+        "Poll",
+        "poll"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-123",
+      "canonical": "Polled EVM",
+      "aliases": [
+        "Polled EVM",
+        "polled evm",
+        "PE"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-124",
+      "canonical": "Polling Parties",
+      "aliases": [
+        "Polling Parties",
+        "polling parties",
+        "Polling Partie"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-125",
+      "canonical": "Polling Station",
+      "aliases": [
+        "Polling Station",
+        "polling station",
+        "PS"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-126",
+      "canonical": "Postal Ballot",
+      "aliases": [
+        "Postal Ballot",
+        "postal ballot",
+        "PB"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-127",
+      "canonical": "Procurement Price",
+      "aliases": [
+        "Procurement Price",
+        "procurement price"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-128",
+      "canonical": "RO",
+      "aliases": [
+        "RO"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-129",
+      "canonical": "Radio Frequency",
+      "aliases": [
+        "Radio Frequency",
+        "radio frequency",
+        "RF"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-130",
+      "canonical": "Real Time Clock",
+      "aliases": [
+        "Real Time Clock",
+        "real time clock",
+        "RTC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-131",
+      "canonical": "Representation of the People Act",
+      "aliases": [
+        "Representation of the People Act",
+        "representation of the people act",
+        "ROTPA"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-132",
+      "canonical": "Reserve EVM Vehicle",
+      "aliases": [
+        "Reserve EVM Vehicle",
+        "reserve evm vehicle",
+        "REV"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-133",
+      "canonical": "Serial Number",
+      "aliases": [
+        "Serial Number",
+        "serial number",
+        "SN"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-134",
+      "canonical": "Service Voter",
+      "aliases": [
+        "Service Voter",
+        "service voter",
+        "SV"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-135",
+      "canonical": "Supreme Court",
+      "aliases": [
+        "Supreme Court",
+        "supreme court",
+        "SC"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-136",
+      "canonical": "Telangana",
+      "aliases": [
+        "Telangana",
+        "telangana"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-137",
+      "canonical": "Thermal Paper",
+      "aliases": [
+        "Thermal Paper",
+        "thermal paper",
+        "TP"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-138",
+      "canonical": "Thermal Paper Roll",
+      "aliases": [
+        "Thermal Paper Roll",
+        "thermal paper roll",
+        "TPR"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-139",
+      "canonical": "VVPAT Knob",
+      "aliases": [
+        "VVPAT Knob",
+        "vvpat knob",
+        "VK"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-140",
+      "canonical": "VVPAT Slips",
+      "aliases": [
+        "VVPAT Slips",
+        "printed paper slips"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-141",
+      "canonical": "Videography",
+      "aliases": [
+        "Videography",
+        "videography"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-142",
+      "canonical": "Visually Impaired Elector",
+      "aliases": [
+        "Visually Impaired Elector",
+        "visually impaired elector",
+        "VIE"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-143",
+      "canonical": "Vote Prediction",
+      "aliases": [
+        "Vote Prediction",
+        "vote prediction",
+        "VP"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-144",
+      "canonical": "Voter",
+      "aliases": [
+        "Voter",
+        "voter"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-145",
+      "canonical": "Voter Biometrics",
+      "aliases": [
+        "Voter Biometrics",
+        "voter biometrics",
+        "VB",
+        "Voter Biometric"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-146",
+      "canonical": "Voter ID",
+      "aliases": [
+        "Voter ID",
+        "voter id",
+        "VI"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-147",
+      "canonical": "Voter Registration",
+      "aliases": [
+        "Voter Registration",
+        "voter registration",
+        "VR"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-148",
+      "canonical": "Voter Turnout",
+      "aliases": [
+        "Voter Turnout",
+        "voter turnout",
+        "VT"
+      ],
+      "question_count": 1
+    },
+    {
+      "id": "ENT-149",
+      "canonical": "Warehouse Access Log",
+      "aliases": [
+        "Warehouse Access Log",
+        "warehouse access log",
+        "WAL"
+      ],
+      "question_count": 1
+    }
+  ]
+}
